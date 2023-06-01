@@ -1,1 +1,1 @@
-# Salary-Prediction-by-using-Polynomial-Regressionl-
+# Salary-Prediction-using-Polynomial-Regressionl-
